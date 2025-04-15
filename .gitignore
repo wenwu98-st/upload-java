@@ -1,0 +1,19 @@
+# 忽略编译输出
+/target/
+/bin/
+/build/
+/out/
+*.class
+*.jar
+
+# 忽略 IDE 文件
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# 忽略日志文件
+*.log
